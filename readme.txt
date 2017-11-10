@@ -4,10 +4,6 @@ Git has a mutable index called stage.
 Git tracks  changes of changes.
 what is your name?
 my name is cxy.
-<<<<<<< HEAD
 Creating a new branch is quick & simple.
-=======
-Creating a new branch is quick AND simple.
->>>>>>> feature1
 
 
