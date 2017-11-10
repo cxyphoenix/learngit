@@ -8,3 +8,4 @@ Creating a new branch is quick AND simple.
 test fast forward.
 test fast forwardtwo.
 test fast forwardThree.
+test fast forwardfour.
